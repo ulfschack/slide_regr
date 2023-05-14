@@ -1,0 +1,24 @@
+---
+title: "En ynka neuron"
+format: 
+    revealjs:
+        width: 2732
+        height: 2048
+revealjs:
+  slide-level: 2
+incremental: true
+---
+
+::: {.r-stack}
+![](Layer13.PNG){.fragment}
+
+![](Layer14.PNG){.fragment}
+
+![](Layer15.PNG){.fragment}
+
+![](Layer16.PNG){.fragment}
+
+![](Layer17.PNG){.fragment}
+
+![](Layer18.PNG){.fragment}
+:::
